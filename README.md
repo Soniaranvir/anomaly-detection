@@ -31,9 +31,9 @@ A synthetic dataset simulating real-world login attempts, with features like:
 - ✅ Evaluate models based on accuracy, precision, recall, and ROC-AUC scores.
 
 # 📌 Insights
-Performance Evaluation – Metrics for models like Logistic Regression, Random Forest, SVM, and Neural Networks.
-Feature Importance – Identify key factors that indicate anomalies.
-Predictive Power – Models effectively differentiate between normal and abnormal behavior.
+- Performance Evaluation – Metrics for models like Logistic Regression, Random Forest, SVM, and Neural Networks.
+- Feature Importance – Identify key factors that indicate anomalies.
+- Predictive Power – Models effectively differentiate between normal and abnormal behavior.
 
 # 🚧 Future Enhancements
 🔹 Unsupervised Learning Approach – Coming soon! Detect anomalies without labeled data.
