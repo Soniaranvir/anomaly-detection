@@ -30,18 +30,6 @@ A synthetic dataset simulating real-world login attempts, with features like:
 - ✅ Implement ML models to classify login activities as normal or suspicious.
 - ✅ Evaluate models based on accuracy, precision, recall, and ROC-AUC scores.
 
-# 🛠️ Getting Started
-
-Clone the repo:
-git clone https://github.com/YourUsername/Web_Auth_Anomaly_Detection.git  
-cd Web_Auth_Anomaly_Detection  
-Install dependencies:
-
-pip install -r requirements.txt  
-Run the Jupyter notebook:
-
-jupyter notebook  
-
 # 📌 Insights
 Performance Evaluation – Metrics for models like Logistic Regression, Random Forest, SVM, and Neural Networks.
 Feature Importance – Identify key factors that indicate anomalies.
