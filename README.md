@@ -8,22 +8,22 @@ This project focuses on detecting anomalies in web authentication systems using 
 
 # 📁 Repo Structure
 
-AD_Analysis.ipynb – Jupyter notebook implementing multiple supervised learning models for anomaly detection.
-data/ – Contains synthetic datasets used for training and testing.
+- AD_Analysis.ipynb – Jupyter notebook implementing multiple supervised learning models for anomaly detection.
+- data/ – Contains synthetic datasets used for training and testing.
 
 # 📊 Dataset
 
 A synthetic dataset simulating real-world login attempts, with features like:
 
-User ID – Unique identifier per user.
-Timestamp – Login date & time.
-Login Status – Success or failure.
-IP Address – Source of login attempt.
-Device Type – Mobile, tablet, or desktop.
-Location – Geo-location of the login.
-Session Duration – Active session length.
-Failed Attempts – Number of previous failed logins.
-Behavioral Score – User behavior pattern to detect deviations.
+- User ID – Unique identifier per user.
+- Timestamp – Login date & time.
+- Login Status – Success or failure.
+- IP Address – Source of login attempt.
+- Device Type – Mobile, tablet, or desktop.
+- Location – Geo-location of the login.
+- Session Duration – Active session length.
+- Failed Attempts – Number of previous failed logins.
+- Behavioral Score – User behavior pattern to detect deviations.
 
 # 🎯 Goals
 ✅ Generate realistic synthetic datasets for model training.
@@ -31,8 +31,8 @@ Behavioral Score – User behavior pattern to detect deviations.
 ✅ Evaluate models based on accuracy, precision, recall, and ROC-AUC scores.
 
 # 🛠️ Getting Started
-Clone the repo:
 
+Clone the repo:
 git clone https://github.com/YourUsername/Web_Auth_Anomaly_Detection.git  
 cd Web_Auth_Anomaly_Detection  
 Install dependencies:
