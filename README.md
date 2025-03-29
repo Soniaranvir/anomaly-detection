@@ -2,7 +2,7 @@
 
 ## 🚀 Web Authentication Anomaly Detection
 
-# # 🔍 Overview
+## 🔍 Overview
 
 This project focuses on detecting anomalies in web authentication systems using supervised and unsupervised machine learning techniques. The goal is to enhance security by identifying suspicious login behaviors that could indicate unauthorized access attempts. Currently, the repo includes a supervised learning approach, with plans to add an unsupervised model soon.
 
