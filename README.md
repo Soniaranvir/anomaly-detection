@@ -26,9 +26,9 @@ A synthetic dataset simulating real-world login attempts, with features like:
 - Behavioral Score – User behavior pattern to detect deviations.
 
 # 🎯 Goals
-✅ Generate realistic synthetic datasets for model training.
-✅ Implement ML models to classify login activities as normal or suspicious.
-✅ Evaluate models based on accuracy, precision, recall, and ROC-AUC scores.
+- ✅ Generate realistic synthetic datasets for model training.
+- ✅ Implement ML models to classify login activities as normal or suspicious.
+- ✅ Evaluate models based on accuracy, precision, recall, and ROC-AUC scores.
 
 # 🛠️ Getting Started
 
